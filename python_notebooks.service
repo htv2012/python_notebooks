@@ -1,0 +1,14 @@
+[Unit]
+Description=Python Notebooks
+After=network.target
+
+[Service]
+ExecStart=/home/app/python_notebooks/start.sh
+WorkingDirectory=/home/app/python_notebooks
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=app
+
+[Install]
+WantedBy=multi-user.target
