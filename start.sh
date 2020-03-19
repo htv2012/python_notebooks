@@ -1,4 +1,4 @@
 #!/bin/bash
-source /home/app/.virtualenv/python_notebooks/bin/activate
+source /home/pi/.virtualenv/python_notebooks/bin/activate
 jupyter lab
 
