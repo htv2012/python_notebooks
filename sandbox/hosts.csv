@@ -1,0 +1,7 @@
+name,environment,datacenter,vendors
+foo,env1,dc1,
+foo,env1,dc1,Hulu
+foo,env1,dc1,"Hulu,Sync"
+foo,env1,dc1,"AFC,VPC"
+foo,env1,dc2,
+
