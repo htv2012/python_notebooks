@@ -1,4 +1,0 @@
-greeting.h myapp.cpp
-database.h myapp.cpp
-hello.h greeting.h
-goodbye.h greeting.h
