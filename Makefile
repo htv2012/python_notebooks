@@ -1,3 +1,3 @@
 run:
-	jupyter lab
+	uv run jupyter lab
 
