@@ -1,3 +1,4 @@
 run:
-	uv run jupyter lab
+	uv run jupyter lab --notebook-dir=notebooks 
+
 
